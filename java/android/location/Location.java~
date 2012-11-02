@@ -486,7 +486,7 @@ public class Location implements Parcelable {
      * Returns the latitude of this fix.
      */
     public double getLatitude() {
-        return mLatitude;
+        return 99;//mLatitude;
     }
 
     /**
